@@ -10,8 +10,10 @@
     "type": "git",
     "url": "Bootcamp_FullStack_DHM"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "David Honeyands",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  }
 }
