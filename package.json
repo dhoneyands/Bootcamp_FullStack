@@ -14,10 +14,7 @@
   "author": "David Honeyands",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "mongodb": "^6.2.0"
-=======
     "lodash": "^4.17.21"
->>>>>>> 9d2721e19904edf7b3fe323bb7bff9b24542c9e1
   }
 }
