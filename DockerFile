@@ -17,7 +17,7 @@ RUN npm install
 COPY . .
 
 # Bind your app to port 135
-EXPOSE 135
+EXPOSE 3702
 
 # CMD [ "node", "server.js" ]
 CMD [ "node", "server_entregable.js" ]

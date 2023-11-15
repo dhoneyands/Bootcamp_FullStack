@@ -6,7 +6,7 @@ const url = 'mongodb://mongodb-container:27017';
 
 //constants
 const hostname = '0.0.0.0';
-const port = 135;
+const port = 3702;
 
 //requests routes
 app.get('/',function(req,res){
