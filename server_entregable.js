@@ -20,3 +20,5 @@ app.get('/secret',function(req,res,next){
     console.log('This is a log message as a test')
 });
 
+app.listen(port, hostname);
+console.log(`Running on http://${hostname}:${port}`);
