@@ -17,7 +17,7 @@ app.post('/',function(req,res){
 });
 app.get('/secret',function(req,res,next){
     res.send('Print hello world');
-    console.log('This is a log message as a test')
+    console.log('This is a log message as a test');
 });
 
 app.listen(port, hostname);
