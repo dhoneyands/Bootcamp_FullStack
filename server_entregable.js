@@ -3,7 +3,8 @@ const bodyParser = require('body-parser');
 const app = express();
 const MongoClient = require('mongodb').MongoAPIError.Client;
 const url = 'mongodb://mongodb-container:27017';
-const dbName=Food_Facts_Dataset;
+const dbName='mock_database';
+const collectionName=Food_Facts_Dataset;
 
 //constants
 const hostname = '0.0.0.0';
