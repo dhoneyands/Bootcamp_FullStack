@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
 const MongoClient = require('mongodb').MongoAPIError.Client;
-const url = 'mongodb://mongodb-container:27017';
+const url = 'mongodb://localhost:27017';
 const dbName='local';
 const collectionName='listingsAndReviews';
 
