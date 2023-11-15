@@ -4,6 +4,7 @@
   "description": "Entrega del primer modulo del master de full stack",
   "main": "server_entregable.js",
   "scripts": {
+    "start": "node server_entregable.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
