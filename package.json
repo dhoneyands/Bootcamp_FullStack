@@ -2,7 +2,7 @@
   "name": "bootcamp_fullstack_dhm",
   "version": "1.0.0",
   "description": "Entrega del primer modulo del master de full stack",
-  "main": "index.js",
+  "main": "server_entregable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
